@@ -45,15 +45,6 @@ class Program
             "sexes",
             "stats",
             "tenet",
-
-            "Dot",
-            "Net",
-            "Perls",
-            "Is",
-            "Not",
-            "A",
-            "Palindrome",
-            ""
         };
 
         foreach (string value in array)
